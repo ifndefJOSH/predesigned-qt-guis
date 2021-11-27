@@ -10,6 +10,6 @@ A 5-step installer that can be suited to a wide variety of programs.
 
 ![Options](screenshots/Options.png)
 
-![Installation Tasks](Tasks.png)
+![Installation Tasks](screenshots/Tasks.png)
 
-![Finished Installation](Finished.png)
+![Finished Installation](screenshots/Finished.png)
